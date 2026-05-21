@@ -1,0 +1,6 @@
+{
+  "name": "Todo List",
+  "description": "An offline-first list with intelligent AI agents that help organize, structure, prioritize, and brainstorm actionable tasks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,18 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Outer thick neon purple/indigo accent circle background -->
+    <path
+        android:strokeColor="#6366F1"
+        android:strokeWidth="4"
+        android:strokeLineCap="round"
+        android:pathData="M 54 20 A 34 34 0 1 1 53.9 20" />
+
+    <!-- A bold modern checkmark in white -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M39,52 L48,61 L69,38 L74,43 L48,71 L34,57 Z" />
+</vector>
